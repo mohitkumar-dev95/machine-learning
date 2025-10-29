@@ -46,21 +46,14 @@ Upload these files to `/content/`:
 - `test.csv`
 - `ObesityDataSet.csv`
 
-###expected output
+## Expected Output
+
+```text
 Number of features after preprocessing: 21
 Best Params: {'classifier__xgb__n_estimators': 250, ...}
 Tuned CV Accuracy: 0.91899
 Improved submission file created: /content/submission_improved.csv
 
-
-
-###obesity-prediction/
-├── train.csv
-├── test.csv
-├── ObesityDataSet.csv
-├── submission_improved.csv     ← Your Kaggle submission
-├── optimized_ensemble_obesity_prediction.py
-└── README.md                   ← This file
 
 
 Authors
