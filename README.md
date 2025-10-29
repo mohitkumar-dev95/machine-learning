@@ -48,19 +48,17 @@ Upload these files to `/content/`:
 
 ## Expected Output
 
-```text
-Number of features after preprocessing: 21
-Best Params: {'classifier__xgb__n_estimators': 250, ...}
-Tuned CV Accuracy: 0.91899
-Improved submission file created: /content/submission_improved.csv
+`
+Tuned CV Accuracy: 0.92037
+Improved submission file created: /content/submission_improved.csv`
 
 
 
-Authors
-Team: MT2025018_MT2025018
+### Authors
+`Team: MT2025018_MT2025018
 Members:
 
 MOHIT KUMAR
-AMAN TIWARI
+AMAN TIWARI`
 
 
