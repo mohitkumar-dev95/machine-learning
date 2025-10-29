@@ -54,11 +54,20 @@ Improved submission file created: /content/submission_improved.csv
 
 
 
-obesity-prediction/
+###obesity-prediction/
 ├── train.csv
 ├── test.csv
 ├── ObesityDataSet.csv
 ├── submission_improved.csv     ← Your Kaggle submission
 ├── optimized_ensemble_obesity_prediction.py
 └── README.md                   ← This file
+
+
+Authors
+Team: MT2025018_MT2025018
+Members:
+
+MOHIT KUMAR
+AMAN TIWARI
+
 
